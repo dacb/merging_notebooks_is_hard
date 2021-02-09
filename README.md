@@ -2,3 +2,4 @@
 
 * This is a list item
 * another list item
+* a conflicting item
